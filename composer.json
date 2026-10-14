@@ -2,9 +2,5 @@
     "name": "patrykgruszka/composer-dist-probe",
     "description": "Disposable probe: does Packagist honor a dist key in composer.json? Will be deleted.",
     "type": "library",
-    "license": "MIT",
-    "dist": {
-        "type": "zip",
-        "url": "https://github.com/patrykgruszka/composer-dist-probe/releases/download/0.0.1/probe-0.0.1.zip"
-    }
+    "license": "MIT"
 }
